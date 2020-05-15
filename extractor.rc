@@ -1,0 +1,3 @@
+#include "resource.h"
+
+1 24 "Application.manifest"
