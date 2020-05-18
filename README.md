@@ -1,7 +1,8 @@
 ### Wii U Common Key Extractor
 Extract the Wii U common key from an OTP backup.  
 
-Only supports Windows  
+Windows version  
+Python version can be found [HERE](https://github.com/Flumpster/WiiUCommonKeyExtractor)  
 
 ![alt text](https://raw.githubusercontent.com/GaryOderNichts/WiiUCommonKeyExtractor/master/screenshot.png "Screenshot")
 
